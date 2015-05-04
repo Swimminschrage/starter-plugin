@@ -1,7 +1,7 @@
 {
-  "name": "starterplugin",
+  "name": "CodeJam",
   "version": "0.1.0",
-  "description": "starter plugin",
+  "description": "USH CodeJam - May 4th",
   "readme": "README.md",
   "repository" : {
     "type" : "git",
